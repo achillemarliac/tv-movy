@@ -1,0 +1,10 @@
+{
+  "name": "tv-movy",
+  "version": "1.0.0",
+  "description": "Movy sur la télé",
+  "packageType": "mods",
+  "appName": "Movy",
+  "websiteURL": "https://www.movy.sx",
+  "main": "mod.js",
+  "keys": []
+}
